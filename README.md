@@ -27,10 +27,7 @@
  <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
  
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkboy-js&theme=radical&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Darkboy-js&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
-</p>
+
 
 
 
