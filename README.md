@@ -1,15 +1,15 @@
 ### Hi there, I'm Koavu! 👋
-<a href="https://discord.gg/gyEkFbb">
+<a href="https://discord.gg/abc">
   <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/koavuu">
-  <img align="left" alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Koavu's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
  <a href="https://github.com/koavu">
-  <img align="left" alt="Darkboy Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Koavu Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/who.koavu/">
-  <img align="left" alt="DarkBoy's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Koavu's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br />
@@ -18,8 +18,8 @@
 
  - Random kid on the internet
  - 🌱 I’m currently learning JS,PY
-- 💬 Ask me about anything [here](https://discord.gg/gyEkFbb)
-- 📫 Add Me On Discord? scawy koavu#6666
+- 💬 Ask me about anything [here](https://discord.gg/abc)
+- 📫 Add Me On Discord? Koavu#1337
 - 🥅 2020 Goals: Get alot of followers :)
 
 **Learning:** &nbsp;
